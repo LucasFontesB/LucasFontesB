@@ -8,7 +8,7 @@
 
 😄 Pronomes: ele/dele
 
-⚡ Curiosidade: Fui gerente de hotel antes de migrar para TI e criei um jogo educacional chamado “Alquimista dos Sonhos”.
+⚡ Curiosidade: Trabalho atualmente como Gerente Administrativo em um hotel e criei um jogo educacional chamado “Alquimista dos Sonhos”.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasFontesB&theme=tokyonight" />
