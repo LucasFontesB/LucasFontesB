@@ -1,14 +1,14 @@
 ## Olá! Eu sou Lucas Fontes
 
--🔭 Atualmente estou trabalhando em projetos Full Stack com foco em back-end, incluindo um sistema de gerenciamento de Pedidos De Inserção em Vaadin.
+🔭 Atualmente estou trabalhando em projetos Full Stack com foco em back-end, incluindo um sistema de gerenciamento de Pedidos De Inserção em Vaadin.
 
--🌱 Atualmente estou aprendendo Vaadin, Java e bancos de dados relacionais (PostgreSQL, MySQL).
+🌱 Atualmente estou aprendendo Vaadin, Java e bancos de dados relacionais (PostgreSQL, MySQL).
 
--💬 Pergunte-me sobre desenvolvimento backend em Vaadin, lógica de programação ou minha experiência em gestão hoteleira.
+💬 Pergunte-me sobre desenvolvimento backend em Vaadin, lógica de programação ou minha experiência em gestão hoteleira.
 
--😄 Pronomes: ele/dele
+😄 Pronomes: ele/dele
 
--⚡ Curiosidade: Fui gerente de hotel antes de migrar para TI e criei um jogo educacional chamado “Alquimista dos Sonhos”.
+⚡ Curiosidade: Fui gerente de hotel antes de migrar para TI e criei um jogo educacional chamado “Alquimista dos Sonhos”.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasFontesB&theme=tokyonight" />
