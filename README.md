@@ -1,55 +1,69 @@
-## Olá! Eu sou Lucas Fontes
+## Olá! Eu sou o Lucas Fontes 👋
 
-🔭 Atualmente estou trabalhando em projetos Full Stack com foco em back-end, incluindo um sistema de gerenciamento de Pedidos De Inserção em Vaadin.
+Desenvolvedor **Full Stack com foco em back-end**, construindo sistemas que resolvem problemas reais de negócio, da modelagem do banco ao deploy em produção.
 
-🌱 Atualmente estou aprendendo Vaadin, Java e bancos de dados relacionais (PostgreSQL, MySQL).
+### 🔭 O que faço hoje
 
-💬 Pergunte-me sobre desenvolvimento backend em Vaadin, lógica de programação ou minha experiência em gestão hoteleira.
+- **i9Mídia** · Desenvolvo e mantenho o sistema interno que substituiu planilhas no controle de Pedidos de Inserção. Em produção desde 2025, com mais de 700 PIs registrados e 12+ usuários ativos. *(Java, Spring Boot, Vaadin, PostgreSQL)*
+- **Saghar** · Integração de um sistema de gestão hoteleira legado, usado por mais de 100 clientes, com a Decolar/Despegar: importação de reservas via ACK, sincronização de disponibilidade e quartos. *(Java 8, Firebird)*
+- **Integrações de pagamento** · Cobranças via API da Cielo e Pix do Banco do Brasil, com auditoria, consulta de status e comprovantes. *(Python, FastAPI, PostgreSQL)*
 
-😄 Pronomes: ele/dele
+### 🚀 Projetos no ar
 
-⚡ Curiosidade: Trabalho atualmente como Gerente Administrativo em um hotel e criei um jogo educacional chamado “Alquimista dos Sonhos”.
+| Projeto | O que é | Link |
+|---|---|---|
+| **Caixify** | SaaS de PDV para pequenos comércios, multi-tenant | [app.caixify.com.br](https://app.caixify.com.br) |
+| **NutriStats** | Plataforma de nutrição e treino com acompanhamento profissional | [app.nutristats.com.br](https://app.nutristats.com.br) |
+| **FinanceAssistant** | SaaS de finanças pessoais com PWA e notificações push | [financeassistant.com.br](https://www.financeassistant.com.br) |
 
-<div>
-  <h1>Redes Sociais</h1>
+### 💬 Pode me perguntar sobre
 
-  <a href="https://discord.com/users/MadaraMuiLoco" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:lfontesbritto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/luskinha_42/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://wa.me/5582981635585" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-fontes-britto" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-  </a>
-</div>
+APIs com FastAPI e Spring Boot · integrações com sistemas de terceiros · sistemas legados · como é ser dev e gerente de hotel ao mesmo tempo
 
-<div>
-  <h1>Banco De Dados</h1>
-  
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-</div>
+<details>
+<summary>🇺🇸 English</summary>
 
-<div>
-  <h1>Linguagens</h1>
+<br>
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-</div>
+Backend-focused **Full Stack Developer**. I build and maintain production systems: an internal platform for a media company (700+ insertion orders, 12+ active users), an OTA integration between a legacy hotel management system (100+ clients) and Decolar/Despegar, and payment integrations with Cielo and Banco do Brasil Pix. I also run my own SaaS products: Caixify (POS), NutriStats (nutrition & training) and FinanceAssistant (personal finance).
 
+</details>
 
+### 🛠️ Stack
 
+**Linguagens**
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+**Frameworks**
 
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Vaadin](https://img.shields.io/badge/vaadin-%2300B4F0.svg?style=for-the-badge&logo=vaadin&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+**Bancos de dados**
 
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebird](https://img.shields.io/badge/firebird-%23F40D12.svg?style=for-the-badge&logo=firebird&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+**Infra**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📫 Contato
+
+<a href="https://www.linkedin.com/in/lucas-fontesbritto" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:lfontesbritto@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://wa.me/5582981635585" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
