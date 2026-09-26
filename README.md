@@ -51,7 +51,7 @@ APIs com FastAPI e Spring Boot · integrações com sistemas de terceiros · sis
 
 ### 📫 Contato
 
-<a href="https://www.linkedin.com/in/lucas-fontesbritto" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-fontes-britto" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:lfontesbritto@gmail.com" target="_blank">
