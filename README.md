@@ -1,3 +1,5 @@
+🇧🇷 **Português** · 🇺🇸 [English](https://github.com/LucasFontesB/LucasFontesB/blob/main/README.en.md)
+
 ## Olá! Eu sou o Lucas Fontes 👋
 
 Desenvolvedor **Full Stack com foco em back-end**, construindo sistemas que resolvem problemas reais de negócio, da modelagem do banco ao deploy em produção.
@@ -19,15 +21,6 @@ Desenvolvedor **Full Stack com foco em back-end**, construindo sistemas que reso
 ### 💬 Pode me perguntar sobre
 
 APIs com FastAPI e Spring Boot · integrações com sistemas de terceiros · sistemas legados · como é ser dev e gerente de hotel ao mesmo tempo
-
-<details>
-<summary>🇺🇸 English</summary>
-
-<br>
-
-Backend-focused **Full Stack Developer**. I build and maintain production systems: an internal platform for a media company (700+ insertion orders, 12+ active users), an OTA integration between a legacy hotel management system (100+ clients) and Decolar/Despegar, and payment integrations with Cielo and Banco do Brasil Pix. I also run my own SaaS products: Caixify (POS), NutriStats (nutrition & training) and FinanceAssistant (personal finance).
-
-</details>
 
 ### 🛠️ Stack
 
